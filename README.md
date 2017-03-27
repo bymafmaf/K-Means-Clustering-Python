@@ -1,4 +1,4 @@
-# K-Means-Clustering-Python
+# K-Means Clustering Implementation in Python
 Simple implementation of k-means clustering algorithm in Python. Purdue CS390-DM Data Mining&amp;Machine Learning 
 
 #Example running:
