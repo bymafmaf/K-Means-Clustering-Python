@@ -1,3 +1,5 @@
+# K-Means Clustering Algorithm in simple Python (without scikit)
+
 This python script takes followings as input:
 
 1. dataFilename: corresponds to the yelp3.csv dataset that should be clustered by k-means algorithm.
